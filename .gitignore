@@ -1,0 +1,13 @@
+workarea/*
+logs/*
+.idea
+.idea/*
+readme.html
+app.yaml
+*.log
+vendor/*
+main
+main.exe
+vendor*
+running
+lint.out
